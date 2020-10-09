@@ -1,2 +1,2 @@
 # reuspacy
-A spaCy entity ruler model packeage 
+A spaCy entity ruler model package 

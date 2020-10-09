@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
 name='reuspacy',
-version='0.0.0.1'
+version='0.0.1'
 description = 'The package is a simple spacy entity ruler',
 url = 'git@github.com:Nyaribari/reuspacy-sdk-package.git',
 author='Nyarbari Reuben',

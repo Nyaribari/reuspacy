@@ -8,8 +8,7 @@ url = 'git@github.com:Nyaribari/reuspacy-sdk-package.git',
 author='Nyarbari Reuben',
 author_email='anyaribari@gmail.com',
 licence='unlicense',
-packages=[
-'reuspacy'
-],
+packages=['reuspacy'],
+install_requires=['spacy',],
 zip_safe= False
 )

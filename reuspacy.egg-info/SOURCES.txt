@@ -1,0 +1,10 @@
+README.md
+setup.py
+reuspacy/__init__.py
+reuspacy/ruler.py
+reuspacy.egg-info/PKG-INFO
+reuspacy.egg-info/SOURCES.txt
+reuspacy.egg-info/dependency_links.txt
+reuspacy.egg-info/not-zip-safe
+reuspacy.egg-info/requires.txt
+reuspacy.egg-info/top_level.txt

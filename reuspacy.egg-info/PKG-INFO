@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: reuspacy
+Version: 0.0.1
+Summary: The package is a simple spacy entity ruler.
+Home-page: git@github.com:Nyaribari/reuspacy-sdk-package.git
+Author: Nyarbari Reuben
+Author-email: anyaribari@gmail.com
+License: unlicense
+Description: UNKNOWN
+Platform: UNKNOWN

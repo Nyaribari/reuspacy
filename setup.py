@@ -4,7 +4,7 @@ setup(
 name='reuspacy',
 version='0.0.1',
 description = 'The package is a simple spacy entity ruler.',
-url = 'git@github.com:Nyaribari/reuspacy-sdk-package.git',
+url = 'github.com/Nyaribari/reuspacy',
 author='Nyarbari Reuben',
 author_email='anyaribari@gmail.com',
 licence='unlicense',

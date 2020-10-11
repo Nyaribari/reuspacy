@@ -1,7 +1,7 @@
 import spacy
 from spacy.pipeline import EntityRuler
 nlp=spacy.load('en_core_web_sm',disable=['ner'])
-def ruler_model(docs):
+def ruler_model(df):
     rulerLocations = EntityRuler(nlp, overrite_ents=True)
     locations = ['Mount Kenya','Maasai Mara',
                  'Nyeri','Lake Naivasha','Mombasa',

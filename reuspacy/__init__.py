@@ -1,1 +1,1 @@
-from .ruler import reuspacy
+from .ruler import ruler_model
